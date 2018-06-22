@@ -14,7 +14,7 @@ return (
 
 const styles = {
     viewStyle: {
-        backgroundColor: '#989898',
+        backgroundColor: '#b8a3cd',
         justifyContent: 'center',
         alignItems: 'center',
         height: 65,
